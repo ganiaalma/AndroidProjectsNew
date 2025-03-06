@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <rect width="100%" height="100%" fill="#F5F5F5"/>
+    <g transform="translate(100,50)">
+        <path fill="#E0E0E0" d="M100 20 L180 20 Q200 20, 200 40 L200 220 Q200 240, 180 240 L100 240 Q80 240, 80 220 L80 40 Q80 20, 100 20Z"/>
+        <rect x="120" y="60" width="80" height="10" fill="#A0A0A0" rx="5" ry="5"/>
+        <rect x="120" y="80" width="60" height="10" fill="#C0C0C0" rx="5" ry="5"/>
+        <rect x="120" y="120" width="80" height="10" fill="#A0A0A0" rx="5" ry="5"/>
+        <rect x="120" y="140" width="60" height="10" fill="#C0C0C0" rx="5" ry="5"/>
+        <rect x="120" y="180" width="80" height="10" fill="#A0A0A0" rx="5" ry="5"/>
+        <rect x="120" y="200" width="60" height="10" fill="#C0C0C0" rx="5" ry="5"/>
+    </g>
+</svg>
